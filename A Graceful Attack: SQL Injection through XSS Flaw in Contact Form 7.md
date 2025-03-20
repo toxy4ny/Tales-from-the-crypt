@@ -1,8 +1,10 @@
 ---
 title: "A Graceful Attack: SQL Injection through XSS Flaw"
-author: "by Zl0y (https://github.com/Zzl0y)"
-date: 2025-03-20
+author: "by Zl0y - https://github.com/Zzl0y"
+date: "2025-03-20"
+layout: default
 ---
+
 # A Graceful Attack: SQL Injection through XSS Flaw in Contact Form 7
 
 # Introduction
