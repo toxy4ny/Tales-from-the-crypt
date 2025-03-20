@@ -4,9 +4,9 @@ author: "by Zl0y - https://github.com/Zzl0y"
 date: "2025-03-20"
 layout: default
 ---
-
+---
 # A Graceful Attack: SQL Injection through XSS Flaw in Contact Form 7
-
+---
 # Introduction
 
 In the realm of cybersecurity, there are always those who can turn a vulnerability into a doorway leading to unprotected reservoirs of data. In the Contact Form 7 plugin for WordPress, not only has a reflected XSS vulnerability been discovered (CVE-2024-2242), but there's also a unique opportunity to execute SQL Injection, much like a series of deceitful masks swapping places in a single masquerade. Let’s unveil the cards:
